@@ -1,8 +1,8 @@
+import Routes from './Routes.js';
+
 function App() {
   return (
-    <div>
-      kjhasfkaj
-    </div>
+    <Routes />
   );
 }
 
